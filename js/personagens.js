@@ -8,13 +8,14 @@ function getPersonagens(){
                  data.forEach(element => {
                     if(element.house == casa){
                         var htmlPadrao = `<div class="col-sm-4 py-2">
-                        <div class="card h-100 card-body">
+                        <div class="card h-100 card-body cartoes">
                             <h2>${element.name}</h2>
-                            Blood status: ${element.bloodStatus}
+                            <p>Blood status: ${element.bloodStatus}<p>
+                            <p>Role: ${element.role}<p>
+                            <p>Species: ${element.species}<p>
                         </div>
                     </div>`;
                         htmlCompleto += htmlPadrao;
-                    console.log(element.name);
                     }
                     
                  });
