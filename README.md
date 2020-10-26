@@ -1,4 +1,4 @@
-# pweb_trabalho2
+# Lufa-Lufa wiki
 
 Trabalho realizado na disciplina de Programação Web - IFSC Xanxerê
 
