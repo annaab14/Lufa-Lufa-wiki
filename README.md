@@ -1,6 +1,6 @@
 # Lufa-Lufa wiki
 
-Trabalho realizado na disciplina de Programação Web - IFSC Xanxerê
+Trabalho realizado na disciplina de Programação Web - IFSC Xanxerê pelas alunas Anna Beatriz e Amanda
 
 O site é um wiki sobre a casa Lufa-Lufa do universo de Harry Potter, com o consumo de uma API que traz os alunos de cada casa.
 
